@@ -1,2 +1,2 @@
 hello ev额荣誉
-printf（“hello world！”）;
+printf（“hello world！”ghhghnghngh"）;
